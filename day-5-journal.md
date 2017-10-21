@@ -1,0 +1,4 @@
+# ***Jeffery Sloan***
+##### **My Journal**
+
+###### Lately I havent felt so confident about working with javascript. It basically crushed my feelings. as of friday the 20th I have never felt so behind with it and im not sure if thats completeley normal or not. I watch everyone else and they seem to get it and i seem to be just a bit behind. Yesterday I really struggled with trying to even format they way it should be written in js. I am just hoping it'll connect or that this is normal for someone in my position. Maybe because I just cannot seem to get time for me to just take a breath and step back. I seem to have lost the balance between sane and insanity in my head when it comes to javasrcipt. I know I can do it with time but I hope I am at the right pace. With that being said I can do it, I know I can.
